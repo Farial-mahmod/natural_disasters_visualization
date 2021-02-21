@@ -13,3 +13,12 @@ How To Use:
 1. Open your terminal
 2. run: python3 dashboard.py
 3. Choose from the options to visualize
+
+
+Screenshots:
+
+![Screenshot](dashboard.png)
+![Screenshot](floods.png)
+![Screenshot](famines.png)
+![Screenshot](pandemics.png)
+![Screenshot](earthquakes.png)
